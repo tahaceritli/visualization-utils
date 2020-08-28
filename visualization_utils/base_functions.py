@@ -13,7 +13,7 @@ def heatmap(
     y_label=None,
     vmin=-1.0,
     vmax=1.0,
-    rotation=30,
+    rotation=0,
     **kwargs,
 ):
     """
